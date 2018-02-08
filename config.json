@@ -1,0 +1,15 @@
+{
+    "title": "MAchinist",
+    "baseURL": "https:\/\/videoembedcheck.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1759130",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "videoembedcheck.com"
+    }
+}
